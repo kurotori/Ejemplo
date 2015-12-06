@@ -2,9 +2,8 @@
 Ejemplo 1: Mostrar un texto en pantalla
 ---------------------------------------
 Este ejemplo genera un ejecutable que
-muestra en pantalla un texto pre-definido*/
+muestra en pantalla un texto pre-definido 
 
-/*
 Sobre los Comentarios:
 ----------------------
 Los comentarios son porciones de texto para
